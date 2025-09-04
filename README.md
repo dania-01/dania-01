@@ -59,11 +59,12 @@
 ---
 
 ### 🌟 Achievements  
-<p align="center">
+<div align="center" style="overflow-x: auto; white-space: nowrap; width: 100%;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dania-01&theme=onedark&margin-w=10&margin-h=10&column=6" alt="Achievements" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dania-01&theme=onedark&margin-w=10&margin-h=10&row=1&no-frame=true" alt="Achievements" />
   </a>
-</p>
+</div>
+
 
 ---
 
