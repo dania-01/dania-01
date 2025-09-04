@@ -38,7 +38,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌟 Banner & Achievements</h3>
+      <h3 align="center">🌟Achievements</h3>
       <p align="center">
         <img src="assets/banner.svg" alt="Dania Khan Banner" width="50%" style="border-radius:10px; display:block; margin:auto;" />
       </p>
@@ -57,7 +57,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/dania-khan-438751223/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/dnya_0412" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:daniakhan0412@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="mailto:daniakhan0412@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 ---
