@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **☕ Strong believer that great ideas start with chai (and a good playlist 🎶).**
 <p align="center">
-  <img src="assets/banner.png" alt="Dania Khan Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Dania Khan Banner" width="100%" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
