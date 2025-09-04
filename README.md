@@ -18,6 +18,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AuCqVTMA7WIJBDBQNGI4uBTrvt2Xx2GY/view?usp=drive_link](https://drive.google.com/file/d/1AuCqVTMA7WIJBDBQNGI4uBTrvt2Xx2GY/view?usp=drive_link)
 
 - ⚡ Fun fact **☕ Strong believer that great ideas start with chai (and a good playlist 🎶).**
+<p align="center">
+  <img src="assets/banner.png" alt="Dania Khan Banner" width="100%" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
