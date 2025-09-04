@@ -9,10 +9,6 @@
 
 <table>
   <tr>
-    <!-- Banner -->
-    <td width="50%" align="center">
-      <img src="assets/banner.svg" alt="Dania Khan Banner" width="100%" style="border-radius:10px;" />
-    </td>
     <!-- About Me -->
     <td width="50%" valign="top">
       <h3>🚀 About Me</h3>
@@ -25,6 +21,10 @@
         <li>📄 View my <a href="https://drive.google.com/file/d/1AuCqVTMA7WIJBDBQNGI4uBTrvt2Xx2GY/view?usp=drive_link">Resume</a></li>
         <li>⚡ Fun fact: <i>☕ Strong believer that great ideas start with chai (and a good playlist 🎶).</i></li>
       </ul>
+    </td>
+      <!-- Banner -->
+    <td width="50%" align="center">
+      <img src="assets/banner.svg" alt="Dania Khan Banner" width="100%" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
@@ -74,7 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dania-01&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dania-01&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="150"/>
+
 </p>
 
 ---
