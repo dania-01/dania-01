@@ -18,7 +18,7 @@
         <li>👨‍💻 Check my <a href="https://dania-portfolio04.netlify.app/">Portfolio</a></li>
         <li>💬 Ask me about <b>React, Redux, MongoDB, Express</b></li>
         <li>📫 Reach me at <a href="mailto:daniakhan0412@gmail.com">Email</a></li>
-        <li>📄 View my <a href="https://drive.google.com/file/d/1AuCqVTMA7WIJBDBQNGI4uBTrvt2Xx2GY/view?usp=drive_link">Resume</a></li>
+        <li>📄 View my <a href="https://drive.google.com/file/d/1eSeFH71XDZzARYkXTooO_sPLyOXeHbdN/view?usp=drive_link">Resume</a></li>
         <li>⚡ Fun fact: <i>☕ Strong believer that great ideas start with chai (and a good playlist 🎶).</i></li>
       </ul>
     </td>
