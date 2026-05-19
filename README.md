@@ -1,83 +1,101 @@
-<h1 align="center">Hi 👋, I'm Dania Khan</h1>
-<h3 align="center">✨ "Turning ideas into clean code & chai into creations." ☕💻 🚀 Full-stack developer exploring innovation, one commit at a time.</h3>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dania-01&label=Profile%20views&color=0e75b6&style=flat" alt="dania-01" /> 
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87ac-8d329c8323c4.gif" width="100%" height="280" />
+
+# 👋 Dania Khan
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%7C+React+Developer;Crafting+clean+%26+scalable+UI+systems;Next.js+%7C+ShadCN+%7C+TanStack+Query+Explorer" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dania-01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-<table>
-  <tr>
-    <!-- About Me -->
-    <td width="50%" valign="top">
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🔭 I’m currently working on <a href="https://bookworm-lib-app.netlify.app">Bookworm-Library Management System</a></li>
-        <li>🌱 I’m currently learning <b>System Design</b></li>
-        <li>👨‍💻 Check my <a href="https://dania-portfolio04.netlify.app/">Portfolio</a></li>
-        <li>💬 Ask me about <b>React, Redux, MongoDB, Express</b></li>
-        <li>📫 Reach me at <a href="mailto:daniakhan0412@gmail.com">Email</a></li>
-        <li>📄 View my <a href="https://drive.google.com/file/d/1eSeFH71XDZzARYkXTooO_sPLyOXeHbdN/view?usp=drive_link">Resume</a></li>
-        <li>⚡ Fun fact: <i>☕ Strong believer that great ideas start with chai (and a good playlist 🎶).</i></li>
-      </ul>
-    </td>
-      <!-- Banner -->
-    <td width="50%" align="center">
-      <img src="assets/banner.svg" alt="Dania Khan Banner" width="100%" style="border-radius:10px;" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack  
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
-
----
-
-### 🤝 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/dania-khan-438751223/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/dnya_0412" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:daniakhan0412@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
-</p>
-
----
-
-### 🌟 Achievements  
-<div align="center" style="overflow-x: auto; white-space: nowrap; width: 100%;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dania-01&theme=onedark&margin-w=10&margin-h=10&row=1&no-frame=true" alt="Achievements" />
-  </a>
 </div>
 
+---
+
+## ✨ About
+
+Frontend Engineer focused on building **clean, scalable, and interactive UI systems**.
+
+- ⚡ React & Next.js focused development  
+- 🧠 Component-driven UI thinking  
+- 🎯 Performance + usability obsessed  
+- 🧩 Exploring modern frontend architecture  
 
 ---
 
-### 📊 GitHub Stats  
+## ⚙️ Tech Stack
+
+**Core**  
+React • Next.js • JavaScript • TypeScript  
+
+**UI & Styling**  
+Tailwind CSS • Bootstrap • ShadCN UI  
+
+**Data & State**  
+TanStack Query • Redux • Zod  
+
+**Tools**  
+Git • GitHub • Postman • VS Code  
+
+---
+
+## 🚀 Featured Work
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dania-01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dania-01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <a href="https://dania-portfolio04.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dania-01&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="150"/>
-
+A modern frontend portfolio focused on UI systems, React apps, and clean design engineering.
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dania-01&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dania-01&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dania-01&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:daniakhan0412@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/dania-khan-438751223/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://dania-portfolio04.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+</div>
