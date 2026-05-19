@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A9C5F7&center=true&vCenter=true&width=520&lines=Building+clean+%26+scalable+UI+systems.;React+%7C+Next.js+%7C+TypeScript+%7C+TanStack." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A9C5F7&center=true&vCenter=true&width=520&lines=Building+clean+%26+scalable+UI+systems.;React+%7C+Next.js+%7C+TanStack." />
 
 <br/>
 
