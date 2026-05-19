@@ -28,7 +28,7 @@ A passionate Frontend Engineer who loves turning complex problems into clean, in
 
 
 - 🔭 Currently building [**Bookworm — Library Management System**](https://bookworm-lib-app.netlify.app)
-- 🌱 Currently learning **System Design**
+- 🌱 Currently learning **Frontend Component Library - MUI**
 - 🎯 Obsessed with **performance, usability & clean architecture**
 - 💬 Ask me about **React, Next.js, TanStack Query, Redux**
 - ⚡ Fun fact: *Great ideas start with chai and a good playlist 🎶☕*
