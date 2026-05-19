@@ -10,7 +10,7 @@
   <a href="mailto:daniakhan0412@gmail.com">📬 daniakhan0412@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/dania-khan-438751223/">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://dania-portfolio04.netlify.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://drive.google.com/file/d/1eSeFH71XDZzARYkXTooO_sPLyOXeHbdN/view?usp=drive_link">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1DoKKIacR8RQV240eaqqAodLToZUyWhZk/view?usp=drive_link">📄 Resume</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=dania-01&label=Profile+Views&color=0e75b6&style=flat" />
