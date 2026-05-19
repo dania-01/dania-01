@@ -1,101 +1,125 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dania%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87ac-8d329c8323c4.gif" width="100%" height="280" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A9C5F7&center=true&vCenter=true&width=520&lines=Building+clean+%26+scalable+UI+systems.;React+%7C+Next.js+%7C+TypeScript+%7C+TanStack." />
 
-# 👋 Dania Khan
-
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%7C+React+Developer;Crafting+clean+%26+scalable+UI+systems;Next.js+%7C+ShadCN+%7C+TanStack+Query+Explorer" />
-</a>
+<br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=dania-01&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="mailto:daniakhan0412@gmail.com">📬 daniakhan0412@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dania-khan-438751223/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://dania-portfolio04.netlify.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1eSeFH71XDZzARYkXTooO_sPLyOXeHbdN/view?usp=drive_link">📄 Resume</a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=dania-01&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## ✨ About
+## 〉About Me
 
-Frontend Engineer focused on building **clean, scalable, and interactive UI systems**.
-
-- ⚡ React & Next.js focused development  
-- 🧠 Component-driven UI thinking  
-- 🎯 Performance + usability obsessed  
-- 🧩 Exploring modern frontend architecture  
-
----
-
-## ⚙️ Tech Stack
-
-**Core**  
-React • Next.js • JavaScript • TypeScript  
-
-**UI & Styling**  
-Tailwind CSS • Bootstrap • ShadCN UI  
-
-**Data & State**  
-TanStack Query • Redux • Zod  
-
-**Tools**  
-Git • GitHub • Postman • VS Code  
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>🔭 Currently building <a href="https://bookworm-lib-app.netlify.app"><b>Bookworm — Library Management System</b></a></li>
+        <li>🌱 Currently learning <b>System Design</b></li>
+        <li>🎯 Obsessed with <b>performance, usability & clean architecture</b></li>
+        <li>💬 Ask me about <b>React, Next.js, TanStack Query, Redux</b></li>
+        <li>⚡ Fun fact: <i>Great ideas start with chai and a good playlist 🎶☕</i></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Work
+## 〉Tech Stack
 
-<p align="center">
-  <a href="https://dania-portfolio04.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+**Frontend**
+```
+React.js · Next.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Redux · Zod
+```
 
-<p align="center">
-A modern frontend portfolio focused on UI systems, React apps, and clean design engineering.
-</p>
+**UI & Styling**
+```
+Tailwind CSS · ShadCN UI · Bootstrap · Responsive Design · Dashboard Development · Theme Systems
+```
+
+**Data, APIs & Forms**
+```
+REST APIs · JSON · TanStack Query (React Query) · React Hook Form · Async State Management
+```
+
+**Tools**
+```
+Git · GitHub · Postman · Chrome DevTools · React DevTools · Vercel · Netlify
+```
 
 ---
 
-## 📊 GitHub Stats
+## 〉GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dania-01&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dania-01&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dania-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C5F7&icon_color=A9C5F7&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dania-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C5F7&text_color=ffffff&langs_count=8" height="180"/>
 
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dania-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=A9C5F7&ring=A9C5F7&fire=A9C5F7&currStreakLabel=A9C5F7" height="180"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 〉Trophy Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dania-01&theme=tokyonight&column=7&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+</div>
+
+---
+
+## 〉Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dania-01&bg_color=0d1117&color=A9C5F7&line=A9C5F7&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <h3>🐍 Contributions</h3>
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 〉Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dania-01&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<a href="https://www.linkedin.com/in/dania-khan-438751223/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://instagram.com/dnya_0412">Instagram</a> &nbsp;·&nbsp;
+<a href="mailto:daniakhan0412@gmail.com">Gmail</a> &nbsp;·&nbsp;
+<a href="https://dania-portfolio04.netlify.app/">Portfolio</a>
 
 </div>
 
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="mailto:daniakhan0412@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/dania-khan-438751223/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://dania-portfolio04.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
----
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+```
+every pixel matters.
+```
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
